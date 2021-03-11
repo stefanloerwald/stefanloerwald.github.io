@@ -1,6 +1,4 @@
 <script type="text/javascript">
-        // Choose a background video and set the loading progress bar
-        material_blazor_website.initializeSplash();
 
         // Single Page Apps for GitHub Pages
         // https://github.com/rafrex/spa-github-pages
